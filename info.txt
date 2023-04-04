@@ -1,4 +1,4 @@
-Dynamic Colling System depends on reading of temperature sensor(LM35) to adjust the speed of the fan(DC Motor).
+Dynamic Cooling System depends on reading of temperature sensor(LM35) to adjust speed of the fan(DC Motor).
 
 for more info & running video:
 https://drive.google.com/drive/folders/1d2kl0q4mI_Bn5xPESN2NHOXpv7AQbiqp
